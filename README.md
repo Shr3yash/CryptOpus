@@ -1,6 +1,6 @@
-# CryptOpus
+# CryptOpus (NFT Billing ledger platform)
 
-# NFT Billing Ledger Platform
+## [Tap to Check Deployment.](https://cryptopus.netlify.app/)
 
 A Web3-powered billing ledger application designed for managing payments and NFT transfers, with full integration into Ethereum-based blockchains. Users can track billing history, manage their digital assets, and transfer NFTs seamlessly through a decentralized, secure, and user-friendly interface.
 
